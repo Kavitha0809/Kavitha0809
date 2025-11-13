@@ -2,7 +2,9 @@
 
 
 🌱 Passionate about building high-quality web applications that deliver an exceptional user experience.
+
 👯 Open to contributing to innovative web projects and hackathons.
+
 📫 How to reach me: @Kavitha0809
 
 <!--
