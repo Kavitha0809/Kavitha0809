@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+🌱 Passionate about building high-quality web applications that deliver an exceptional user experience.
+👯 Open to contributing to innovative web projects and hackathons.
+📫 How to reach me: @Kavitha0809
+
 <!--
 **Kavitha0809/Kavitha0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
